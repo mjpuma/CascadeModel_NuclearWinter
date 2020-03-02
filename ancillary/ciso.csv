@@ -1,0 +1,255 @@
+"","FAO","iso3","name","max.pop","gt.500k"
+"1",1,"ARM","Armenia",3450,TRUE
+"2",2,"AFG","Afghanistan",32358,TRUE
+"3",3,"ALB","Albania",3292,TRUE
+"4",4,"DZA","Algeria",35980,TRUE
+"5",5,"ASM","American Samoa",70,FALSE
+"6",6,"AND","Andorra",86,FALSE
+"7",7,"AGO","Angola",19618,TRUE
+"8",8,"ATG","Antigua and Barbuda",90,FALSE
+"9",9,"ARG","Argentina",40765,TRUE
+"10",10,"AUS","Australia",22606,TRUE
+"11",11,"AUT","Austria",8413,TRUE
+"12",12,"BHS","Bahamas",347,FALSE
+"13",13,"BHR","Bahrain",1324,TRUE
+"14",14,"BRB","Barbados",274,FALSE
+"15",15,"BEL","Belgium-Luxembourg",10579,TRUE
+"16",16,"BGD","Bangladesh",150494,TRUE
+"17",17,"BMU","Bermuda",65,FALSE
+"18",18,"BTN","Bhutan",738,TRUE
+"19",19,"BOL","Bolivia (Plurinational State of)",10088,TRUE
+"20",20,"BWA","Botswana",2031,TRUE
+"21",21,"BRA","Brazil",196655,TRUE
+"22",22,"ABW","Aruba",108,FALSE
+"23",23,"BLZ","Belize",318,FALSE
+"24",24,"IOT","British Indian Ocean Territory",0,FALSE
+"25",25,"SLB","Solomon Islands",552,TRUE
+"26",26,"BRN","Brunei Darussalam",406,FALSE
+"27",27,"BGR","Bulgaria",8957,TRUE
+"28",28,"MMR","Myanmar",48337,TRUE
+"29",29,"BDI","Burundi",8575,TRUE
+"30",30,"ATA","Antarctica",0,FALSE
+"31",31,"BVT","Bouvet Island",0,FALSE
+"32",32,"CMR","Cameroon",20030,TRUE
+"33",33,"CAN","Canada",34350,TRUE
+"34",34,"ZZZ","Canton and Enderbury Islands",0,FALSE
+"35",35,"CPV","Cape Verde",501,TRUE
+"36",36,"CYM","Cayman Islands",57,FALSE
+"37",37,"CAF","Central African Republic",4487,TRUE
+"38",38,"LKA","Sri Lanka",21045,TRUE
+"39",39,"TCD","Chad",11525,TRUE
+"40",40,"CHL","Chile",17270,TRUE
+"41",42,"CXR","Christmas Island",2.77,FALSE
+"42",43,"CCK","Cocos (Keeling) Islands",0.635,FALSE
+"43",44,"COL","Colombia",46927,TRUE
+"44",45,"COM","Comoros",754,TRUE
+"45",46,"COG","Congo",4140,TRUE
+"46",47,"COK","Cook Islands",20,FALSE
+"47",48,"CRI","Costa Rica",4727,TRUE
+"48",49,"CUB","Cuba",11269,TRUE
+"49",50,"CYP","Cyprus",1117,TRUE
+"50",51,"CZE","Czechoslovakia",15629,TRUE
+"51",52,"AZE","Azerbaijan",9306,TRUE
+"52",53,"BEN","Benin",9100,TRUE
+"53",54,"DNK","Denmark",5573,TRUE
+"54",55,"DMA","Dominica",73,FALSE
+"55",56,"DOM","Dominican Republic",10056,TRUE
+"56",57,"BLR","Belarus",10301,TRUE
+"57",58,"ECU","Ecuador",14666,TRUE
+"58",59,"EGY","Egypt",82537,TRUE
+"59",60,"SLV","El Salvador",6227,TRUE
+"60",61,"GNQ","Equatorial Guinea",720,TRUE
+"61",62,"ETH","Ethiopia PDR",54914,TRUE
+"62",63,"EST","Estonia",1528,TRUE
+"63",64,"FRO","Faroe Islands",49,FALSE
+"64",65,"FLK","Falkland Islands (Malvinas)",3,FALSE
+"65",66,"FJI","Fiji",868,TRUE
+"66",67,"FIN","Finland",5385,TRUE
+"67",68,"FRA","France",63126,TRUE
+"68",69,"GUF","French Guiana",237,FALSE
+"69",70,"PYF","French Polynesia",274,FALSE
+"70",71,"ATF","French Southern and Antarctic Territories",0,FALSE
+"71",72,"DJI","Djibouti",906,TRUE
+"72",73,"GEO","Georgia",5346,TRUE
+"73",74,"GAB","Gabon",1534,TRUE
+"74",75,"GMB","Gambia",1776,TRUE
+"75",76,"PSE","Gaza Strip (Palestine)",0,FALSE
+"76",77,"DEU","Germany Nl",0,FALSE
+"77",78,"DEU","Germany Fr",0,FALSE
+"78",79,"DEU","Germany",82541,TRUE
+"79",80,"BIH","Bosnia and Herzegovina",3931,TRUE
+"80",81,"GHA","Ghana",24966,TRUE
+"81",82,"GIB","Gibraltar",29,FALSE
+"82",83,"KIR","Kiribati",101,FALSE
+"83",84,"GRC","Greece",11390,TRUE
+"84",85,"GRL","Greenland",57,FALSE
+"85",86,"GRD","Grenada",105,FALSE
+"86",87,"GLP","Guadeloupe",463,FALSE
+"87",88,"GUM","Guam",182,FALSE
+"88",89,"GTM","Guatemala",14757,TRUE
+"89",90,"GIN","Guinea",10222,TRUE
+"90",91,"GUY","Guyana",756,TRUE
+"91",93,"HTI","Haiti",10124,TRUE
+"92",94,"VAT","Holy See",1,FALSE
+"93",95,"HND","Honduras",7755,TRUE
+"94",97,"HUN","Hungary",10503,TRUE
+"95",98,"HRV","Croatia",4669,TRUE
+"96",99,"ISL","Iceland",324,FALSE
+"97",100,"IND","India",1241492,TRUE
+"98",101,"IDN","Indonesia",242326,TRUE
+"99",102,"IRN","Iran (Islamic Republic of)",74799,TRUE
+"100",103,"IRQ","Iraq",32665,TRUE
+"101",104,"IRL","Ireland",4526,TRUE
+"102",105,"ISR","Israel",7562,TRUE
+"103",106,"ITA","Italy",60789,TRUE
+"104",107,"CIV","Cote d'Ivoire",20153,TRUE
+"105",108,"KAZ","Kazakhstan",16431,TRUE
+"106",109,"JAM","Jamaica",2751,TRUE
+"107",110,"JPN","Japan",126552,TRUE
+"108",111,"ZZZ","Johnston Island",0,FALSE
+"109",112,"JOR","Jordan",6330,TRUE
+"110",113,"KGZ","Kyrgyzstan",5393,TRUE
+"111",114,"KEN","Kenya",41610,TRUE
+"112",115,"KHM","Cambodia",14305,TRUE
+"113",116,"PRK","Democratic People's Republic of Korea",24451,TRUE
+"114",117,"KOR","Republic of Korea",48391,TRUE
+"115",118,"KWT","Kuwait",2818,TRUE
+"116",119,"LVA","Latvia",2613,TRUE
+"117",120,"LAO","Lao People's Democratic Republic",6288,TRUE
+"118",121,"LBN","Lebanon",4259,TRUE
+"119",122,"LSO","Lesotho",2194,TRUE
+"120",123,"LBR","Liberia",4129,TRUE
+"121",124,"LBY","Libya",6423,TRUE
+"122",125,"LIE","Liechtenstein",36,FALSE
+"123",126,"LTU","Lithuania",3690,TRUE
+"124",127,"MHL","Marshall Islands",55,FALSE
+"125",129,"MDG","Madagascar",21315,TRUE
+"126",130,"MWI","Malawi",15381,TRUE
+"127",131,"MYS","Malaysia",28859,TRUE
+"128",132,"MDV","Maldives",320,FALSE
+"129",133,"MLI","Mali",15840,TRUE
+"130",134,"MLT","Malta",418,FALSE
+"131",135,"MTQ","Martinique",407,FALSE
+"132",136,"MRT","Mauritania",3542,TRUE
+"133",137,"MUS","Mauritius",1307,TRUE
+"134",138,"MEX","Mexico",114793,TRUE
+"135",139,"ZZZ","Midway Island",0,FALSE
+"136",140,"MCO","Monaco",35,FALSE
+"137",141,"MNG","Mongolia",2800,TRUE
+"138",142,"MSR","Montserrat",11,FALSE
+"139",143,"MAR","Morocco",32273,TRUE
+"140",144,"MOZ","Mozambique",23930,TRUE
+"141",145,"FSM","Micronesia (Federated States of)",112,FALSE
+"142",146,"MDA","Republic of Moldova",4379,TRUE
+"143",147,"NAM","Namibia",2324,TRUE
+"144",148,"NRU","Nauru",10,FALSE
+"145",149,"NPL","Nepal",30486,TRUE
+"146",150,"NLD","Netherlands",16665,TRUE
+"147",151,"ANT","Netherlands Antilles",203,FALSE
+"148",153,"NCL","New Caledonia",255,FALSE
+"149",154,"MKD","The former Yugoslav Republic of Macedonia",2064,TRUE
+"150",155,"VUT","Vanuatu",246,FALSE
+"151",156,"NZL","New Zealand",4415,TRUE
+"152",157,"NIC","Nicaragua",5870,TRUE
+"153",158,"NER","Niger",16069,TRUE
+"154",159,"NGA","Nigeria",162471,TRUE
+"155",160,"NIU","Niue",3,FALSE
+"156",161,"NFK","Norfolk Island",2.128,FALSE
+"157",162,"NOR","Norway",4925,TRUE
+"158",163,"MNP","Northern Mariana Islands",69,FALSE
+"159",164,"MNP","Pacific Islands Trust Territory",202,FALSE
+"160",165,"PAK","Pakistan",176745,TRUE
+"161",166,"PAN","Panama",3571,TRUE
+"162",167,"CZE","Czech Republic",10534,TRUE
+"163",168,"PNG","Papua New Guinea",7014,TRUE
+"164",169,"PRY","Paraguay",6568,TRUE
+"165",170,"PER","Peru",29400,TRUE
+"166",171,"PHL","Philippines",94852,TRUE
+"167",172,"PCN","Pitcairn Islands",0,FALSE
+"168",173,"POL","Poland",38399,TRUE
+"169",174,"PRT","Portugal",10690,TRUE
+"170",175,"GNB","Guinea-Bissau",1547,TRUE
+"171",176,"TLS","Timor-Leste",1154,TRUE
+"172",177,"PRI","Puerto Rico",3817,TRUE
+"173",178,"ERI","Eritrea",5415,TRUE
+"174",179,"QAT","Qatar",1870,TRUE
+"175",180,"PLW","Palau",21,FALSE
+"176",181,"ZWE","Zimbabwe",12754,TRUE
+"177",182,"REU","Reunion",856,TRUE
+"178",183,"ROU","Romania",23207,TRUE
+"179",184,"RWA","Rwanda",10943,TRUE
+"180",185,"RUS","Russian Federation",148946,TRUE
+"181",186,"SRB","Serbia and Montenegro",10897,TRUE
+"182",187,"SHN","Saint Helena",6,FALSE
+"183",188,"KNA","Saint Kitts and Nevis",53,FALSE
+"184",189,"LCA","Saint Lucia",176,FALSE
+"185",190,"SPM","Saint Pierre and Miquelon",6,FALSE
+"186",191,"VCT","Saint Vincent and the Grenadines",109,FALSE
+"187",192,"SMR","San Marino",32,FALSE
+"188",193,"STP","Sao Tome and Principe",169,FALSE
+"189",194,"SAU","Saudi Arabia",28083,TRUE
+"190",195,"SEN","Senegal",12768,TRUE
+"191",196,"SYC","Seychelles",87,FALSE
+"192",197,"SLE","Sierra Leone",5997,TRUE
+"193",198,"SVN","Slovenia",2035,TRUE
+"194",199,"SVK","Slovakia",5472,TRUE
+"195",200,"SGP","Singapore",5188,TRUE
+"196",201,"SOM","Somalia",9557,TRUE
+"197",202,"ZAF","South Africa",50460,TRUE
+"198",203,"ESP","Spain",46455,TRUE
+"199",205,"ESH","Western Sahara",548,TRUE
+"200",206,"SDN","Sudan",43552,TRUE
+"201",207,"SUR","Suriname",529,TRUE
+"202",208,"TJK","Tajikistan",6977,TRUE
+"203",209,"SWZ","Swaziland",1203,TRUE
+"204",210,"SWE","Sweden",9441,TRUE
+"205",211,"CHE","Switzerland",7702,TRUE
+"206",212,"SYR","Syrian Arab Republic",20766,TRUE
+"207",213,"TKM","Turkmenistan",5105,TRUE
+"208",215,"TZA","United Republic of Tanzania",46218,TRUE
+"209",216,"THA","Thailand",69519,TRUE
+"210",217,"TGO","Togo",6155,TRUE
+"211",218,"TKL","Tokelau",2,FALSE
+"212",219,"TON","Tonga",105,FALSE
+"213",220,"TTO","Trinidad and Tobago",1346,TRUE
+"214",221,"OMN","Oman",2846,TRUE
+"215",222,"TUN","Tunisia",10594,TRUE
+"216",223,"TUR","Turkey",73640,TRUE
+"217",224,NA,"Turks and Caicos",39,FALSE
+"218",225,"ARE","United Arab Emirates",7891,TRUE
+"219",226,"UGA","Uganda",34509,TRUE
+"220",227,"TUV","Tuvalu",10,FALSE
+"221",228,"RUS","USSR",290305,TRUE
+"222",229,"GBR","United Kingdom",62655,TRUE
+"223",230,"UKR","Ukraine",51638,TRUE
+"224",231,"USA","United States of America",313085,TRUE
+"225",232,"UMI","US Minor Is.",0,FALSE
+"226",233,"BFA","Burkina Faso",16968,TRUE
+"227",234,"URY","Uruguay",3380,TRUE
+"228",235,"UZB","Uzbekistan",27760,TRUE
+"229",236,"VEN","Venezuela (Bolivarian Republic of)",29437,TRUE
+"230",237,"VNM","Viet Nam",88792,TRUE
+"231",238,"ETH","Ethiopia",84734,TRUE
+"232",239,"VGB","British Virgin Islands",23,FALSE
+"233",240,"VIR","United States Virgin Islands",109,FALSE
+"234",242,NA,"Wake Island",0,FALSE
+"235",243,"WLF","Wallis and Futuna Islands",15,FALSE
+"236",244,"WSM","Samoa",184,FALSE
+"237",245,"PSE","West Bank",4152.369,TRUE
+"238",246,"YEM","Yemen Ar Rp",17838.691,TRUE
+"239",247,"YEM","Yemen Dem",4965.387,TRUE
+"240",248,"SVK","Yugoslav SFR",12677,TRUE
+"241",249,"YEM","Yemen",24800,TRUE
+"242",250,"COD","Democratic Republic of the Congo",67758,TRUE
+"243",251,"ZMB","Zambia",13475,TRUE
+"244",255,"BEL","Belgium",10754,TRUE
+"245",256,"LUX","Luxembourg",516,TRUE
+"246",258,"AIA","Anguilla",16,FALSE
+"247",259,NA,"Channel Islands",153.876,FALSE
+"248",260,"SJM","Svalbard and Jan Mayen Islands",3.544,FALSE
+"249",264,NA,"Isle of Man",83.327,FALSE
+"250",270,"MYT","Mayotte",211,FALSE
+"251",272,"SRB","Serbia",9856,TRUE
+"252",273,"MNE","Montenegro",632,TRUE
+"253",299,"PSE","Occupied Palestinian Territory",4152,TRUE
+"254",351,"CHN","China",1378506,TRUE
