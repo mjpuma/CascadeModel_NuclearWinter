@@ -1,6 +1,5 @@
 ### Uses Cascade Functions to calculate network statistics and run various shocks.
 ### 5-year simulation, explicitly calling cacade functions for each year (i.e. not in loop)
-### See "master" branch for more flexible scripts.
 
 # Must have run all functions in "CascadeFunctions.R" 
 # Must have the following in working directory:
